@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MedicalCare</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Schedule">
+        <item>Amoxicillin</item>
+        <item>Azithromycin</item>
+        <item>Generic Synthroid</item>
+        <item>Generic Zocor</item>
+        <item>Hydrocodone </item>
+        <item>Lisinopril</item>
+
+
+
+    </string-array>
+
+    <string-array name="Medicines">
+        <item>Azithromycin- 36min</item>
+        <item>Generic Synthroid- 1h 12min</item>
+        <item>Hydrocodone- 2h 52min</item>
+        <item>Amoxicillin- 4h 6min</item>
+        <item>Lisinopril- 16h 25min</item>
+        <item>Generic Zocor- 16h 25min</item>
+    </string-array>
+</resources>
